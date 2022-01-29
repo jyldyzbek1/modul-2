@@ -2,5 +2,6 @@
 
 let message = "Javascript"
 document.write(message)
-newMessage = "A new message"
-document.write(newMessage);
+
+message = "A new message"
+document.write(message);
